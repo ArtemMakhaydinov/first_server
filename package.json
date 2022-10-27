@@ -1,0 +1,23 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "Project from theodinproject.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemMakhaydinov/first_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemMakhaydinov/first_server/issues"
+  },
+  "homepage": "https://github.com/ArtemMakhaydinov/first_server#readme",
+  "dependencies": {
+    "node": "^19.0.0"
+  }
+}
